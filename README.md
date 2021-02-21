@@ -48,12 +48,15 @@
 
 ## Soups
 
+- [Bacon and Lentil Soup](soups/bacon-lentil-soup.md)
 - [Black Bean Soup](soups/black-bean-soup.md)
 - [Buffalo Chili](soups/buffalo-chili.md)
 - [Cold Cucumber Soup with Yogurt and Dill](soups/cold-cucumber-soup.md)
 - [Gazpacho](soups/gazpacho.md)
 - [Ginger Garlic Noodle Soup with Bok Choy](soups/ginger-garlic-noodle-soup.md)
 - [Greek Avgolemono Soup](soups/greek-avgolemono.md)
+- [Lentil, Bacon, and Frankfurter Soup](soups/lentil-bacon-frankfurter-soup.md)
 - [Moroccan Stew](soups/moroccan-stew.md)
+- [Summer Minestrone](soups/summer-minestrone.md)
 - [Vegetable Soup with Fennel](soups/vegetable-soup-with-fennel.md)
 - [West African Peanut Soup](soups/west-african-peanut-soup.md)
