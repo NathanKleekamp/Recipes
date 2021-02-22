@@ -21,6 +21,7 @@
 - [Chicken, Coq au vin](mains/coq-au-vin.md)
 - [Chicken, Oven Fried](mains/chicken-oven-fried.md)
 - [Chicken, Piccata](mains/chicken-piccata.md)
+- [Chicken, Roasted Spatchcock](mains/roasted-chicken.md)
 - [Chicken, Roasted with Figs and Rosemary](mains/chicken-roasted-figs-rosemary.md)
 - [Chickpea Salad Sammiches](mains/chickpea-salad-sammiches.md)
 - [Lamb, Rack of](mains/rack-of-lamb.md)
