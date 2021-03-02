@@ -56,6 +56,7 @@
 - [Gazpacho](soups/gazpacho.md)
 - [Ginger Garlic Noodle Soup with Bok Choy](soups/ginger-garlic-noodle-soup.md)
 - [Greek Avgolemono Soup](soups/greek-avgolemono.md)
+- [Hungarian Mushroom Soup](hungarian-mushroom-soup.md)
 - [Lentil, Bacon, and Frankfurter Soup](soups/lentil-bacon-frankfurter-soup.md)
 - [Moroccan Stew](soups/moroccan-stew.md)
 - [Summer Minestrone](soups/summer-minestrone.md)
