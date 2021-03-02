@@ -25,6 +25,7 @@
 - [Chicken, Roasted with Figs and Rosemary](mains/chicken-roasted-figs-rosemary.md)
 - [Chickpea Salad Sammiches](mains/chickpea-salad-sammiches.md)
 - [Lamb, Rack of](mains/rack-of-lamb.md)
+- [Tomato Tart with Chickpea Crumble](mains/tomato-tart-chickpea-crumble.md)
 - [Shakshuka](mains/shakshuka.md)
 
 ## Marinades
