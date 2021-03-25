@@ -24,12 +24,12 @@
 - [Chicken, Roasted Spatchcock](mains/roasted-chicken.md)
 - [Chicken, Roasted with Figs and Rosemary](mains/chicken-roasted-figs-rosemary.md)
 - [Chickpea Salad Sammiches](mains/chickpea-salad-sammiches.md)
-- [Saffron Fish With Red Peppers & Preserved Lemon](mains/saffron-fish-red-peppers.md)
 - [Lamb, Macaroni with Yoghurt and Spicy Lamb](mains/lamb-yoghurt-pasta.md)
 - [Lamb, Rack of](mains/rack-of-lamb.md)
 - [Salmon Meuniere](mains/salmon-meuniere.md)
 - [Shakshuka](mains/shakshuka.md)
 - [Tomato Tart with Chickpea Crumble](mains/tomato-tart-chickpea-crumble.md)
+- [White Fish, Red Peppers, Saffron & Preserved Lemon](mains/saffron-fish-red-peppers.md)
 
 ## Marinades
 
