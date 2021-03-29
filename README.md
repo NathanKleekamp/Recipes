@@ -46,6 +46,7 @@
 - [Marinated Mushrooms](sides/marinated-mushrooms.md)
 - [Mashed Potatoes](sides/mashed-potatoes.md)
 - [Roasted Carrots and Red Onions with Fennel and Mint](sides/roasted-carrots.md)
+- [Sabanikh](sides/sabanikh.md)
 
 ## Snacks
 
