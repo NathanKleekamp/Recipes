@@ -24,6 +24,7 @@
 - [Chicken, Roasted Spatchcock](mains/roasted-chicken.md)
 - [Chicken, Roasted with Figs and Rosemary](mains/chicken-roasted-figs-rosemary.md)
 - [Chickpea Salad Sammiches](mains/chickpea-salad-sammiches.md)
+- [Duck, Roast](mains/roast-duck.md)
 - [Lamb, Macaroni with Yoghurt and Spicy Lamb](mains/lamb-yoghurt-pasta.md)
 - [Lamb, Rack of](mains/rack-of-lamb.md)
 - [Salmon Meuniere](mains/salmon-meuniere.md)
