@@ -13,6 +13,7 @@
 ## Desserts
 
 - [Brown Butter Cobbler](desserts/brown-butter-cobbler.md)
+- [Chez Panisse’s Blueberry Cobbler](desserts/blueberry-cobbler.md)
 
 ## Main Course
 
