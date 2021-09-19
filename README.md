@@ -43,6 +43,10 @@
 - [Arugula & Fennel Salad with Lemon Vinaigrette](salads/arugula-fennel.md)
 - [Beets and Caramelized Onions](salads/beets-caramelized-onions.md)
 
+## Sauces
+
+- [Garlic Tahini Sauce](sauces/garlic-tahini.md)
+
 ## Sides
 
 - [Green Bean Salad](sides/green-bean-salad.md)
