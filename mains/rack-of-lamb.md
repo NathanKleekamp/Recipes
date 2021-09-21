@@ -16,10 +16,16 @@
    using tongs to flip and sear the bottom and sides of the rack, until
    browned, about 10 minutes. Turn lamb fat side up in the skillet and scatter
    herbs over the top.
-1. Add garlic to skillet and transfer to oven. Roast until an instant-read
-   thermometer inserted into center of the meat reads 130 degrees for medium rare,
-   about 10 minutes. Let cool for 5 minutes before slicing into chops and
-   serving.
+
+1. Reduce heat to 300 degrees. Add garlic to skillet and transfer to oven.
+   Roast for 10 more min or until an instant-read thermometer inserted into
+   center of the meat reads 130 degrees for medium rare. Let cool for 5 minutes
+   before slicing into chops and serving.
+
+## Notes
+
+The "Reduce heat to 300 degrees" bit in step 2, was added from a different
+recipe. It worked perfectly, though, so I added it to this recipe.
 
 ### Source
 
