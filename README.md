@@ -46,6 +46,7 @@
 ## Sauces
 
 - [Garlic Tahini Sauce](sauces/garlic-tahini.md)
+- [Mushroom Wine Sauce](sauces/mushroom-wine.md)
 
 ## Sides
 
