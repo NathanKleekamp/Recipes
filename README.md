@@ -19,6 +19,7 @@
 ## Main Course
 
 - [Baked Ziti with Roasted Vegetables](mains/baked-ziti-with-vegetables.md)
+- [Beans, Creamy Braised White Beans](mains/braised-white-beans.md)
 - [Beef, Red Wine-Braised Short Ribs](mains/braised-short-ribs.md)
 - [Chicken, Coq au vin](mains/coq-au-vin.md)
 - [Chicken, Oven Fried](mains/chicken-oven-fried.md)
