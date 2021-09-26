@@ -4,6 +4,7 @@
 
 - [Cranberry Brie Biscuit Dip](appetizers/cranberry-brie-biscuit-dip.md)
 - [Grandpa Fred's Meatballs](appetizers/meatballs.md)
+- [Black Bean Cheese Dip](appetizers/black-bean-cheese-dip.md)
 
 ## Brunch
 
