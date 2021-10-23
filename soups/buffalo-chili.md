@@ -2,22 +2,18 @@
 
 ## Ingredients
 
-- 3 tablespoons
-- chili powder
-- 1 tablespoon
-- ground cumin
+- 3 tablespoons chili powder
+- 1 tablespoon ground cumin
 - Kosher salt and pepper
 - 2 teaspoons ground coriander
 - 1 teaspoon red pepper flakes
 - 1 teaspoon dried oregano
-- ⅛ teaspoon cayenne pepper
+- 1/8 teaspoon cayenne pepper
 - 3 pounds tomatoes, cored and chopped
-- 2 tablespoons
-- extra-virgin olive oil
+- 2 tablespoons extra-virgin olive oil
 - 2 onions, chopped fine
 - 1 red bell pepper, stemmed, seeded, and cut into 1/2-inch pieces
-- ¼ cup
-- tomato paste
+- 1/4 cup tomato paste
 - 6 garlic cloves, minced
 - 2 pounds ground bison
 - 1 cup water, plus extra as needed
