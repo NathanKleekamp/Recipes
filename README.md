@@ -76,5 +76,6 @@
 - [Lentil, Bacon, and Frankfurter Soup](soups/lentil-bacon-frankfurter-soup.md)
 - [Moroccan Stew](soups/moroccan-stew.md)
 - [Summer Minestrone](soups/summer-minestrone.md)
+- [Thai Red Curry Noodle Soup](soups/red-curry-noodle-soup.md)
 - [Vegetable Soup with Fennel](soups/vegetable-soup-with-fennel.md)
 - [West African Peanut Soup](soups/west-african-peanut-soup.md)
