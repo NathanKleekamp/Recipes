@@ -9,6 +9,7 @@
 ## Brunch
 
 - [Frittata](brunch/frittata.md)
+- [Shrimp & Grits](brunch/shrimp-grits.md)
 - [Tofu Scramble](brunch/tofu-scramble.md)
 
 ## Desserts
