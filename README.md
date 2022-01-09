@@ -29,7 +29,8 @@
 - [Chicken, Roasted with Figs and Rosemary](mains/chicken-roasted-figs-rosemary.md)
 - [Chickpea Salad Sammiches](mains/chickpea-salad-sammiches.md)
 - [Duck, Carnitas Tacos](mains/duck-carnitas-tacos.md)
-- [Duck, Roast](mains/roast-duck.md)
+- [Duck, Basic Roast](mains/duck-roast-basic.md)
+- [Duck, Honey Roast](mains/duck-honey-roast.md)
 - [Lamb, Macaroni with Yoghurt and Spicy Lamb](mains/lamb-yoghurt-pasta.md)
 - [Lamb, Rack of](mains/rack-of-lamb.md)
 - [Salmon Meuniere](mains/salmon-meuniere.md)
@@ -41,11 +42,17 @@
 ## Marinades
 
 - [Brine, Poultry](marinades/brine-poultry.md)
+- [Marinade, Hoisin Duck](marinades/hoisin-duck-marinade.md)
+
+## Salad Dressings
+
+- [Hoisin Salad Dressing](salad-dressings/hoisin-salad-dressing.md)
 
 ## Salads
 
 - [Arugula & Fennel Salad with Lemon Vinaigrette](salads/arugula-fennel.md)
 - [Beets and Caramelized Onions](salads/beets-caramelized-onions.md)
+- [Hoisin Duck Salad](salads/hoisin-duck.md)
 
 ## Sauces
 
