@@ -2,22 +2,28 @@
 
 ## Ingredients
 
-- 500g Greek-style yoghurt
+### Pasta
+
+- 2 cups Greek-style yoghurt
 - 2 large egg yolks
-- 1.5 tsp cornflour
+- 1 1/2 tsp cornstarch
 - 1 garlic clove, peeled and crushed
-- 1 large onion, peeled and roughly chopped (220g net weight)
-- 1 large carrot, peeled and roughly chopped (160g)
+- 1 package spaghetti or similar
+
+### Ground Lamb
+
+- 1 large onion, peeled and roughly chopped
+- 1 large carrot, peeled and roughly chopped
 - 6 garlic cloves, peeled and roughly chopped
-- 5-6 tbsp (20g) roughly chopped parsley, roughly chopped
-- 5-6 tbsp (20g) roughly chopped coriander
-- 105ml olive oil
-- 0.75 tsp ground turmeric
+- 5-6 tbsp parsley, roughly chopped
+- 5-6 tbsp roughly chopped coriander
+- Olive oil
+- 3/4 tsp ground turmeric
 - 1 tsp chilli flakes
 - 1 tbsp cumin seeds, roughly crushed in a mortar
-- 300g lamb mince (20% fat)
-- 500g vine tomatoes, roughly grated and skins discarded (370g)
-- 40g pine nuts, well toasted
+- Ground lamb
+- 2 tbsp tomato paste
+- Pine nuts, well toasted (optional)
 - Salt and black pepper
 
 ## Directions
@@ -40,7 +46,7 @@
 
 1. While the yoghurt is cooking, boil the pasta in a medium saucepan of
    well-salted boiling water for about 13 minutes, until al dente. Drain the
-   pasta, reserving 300ml of its cooking water. Stir half the reserved pasta
+   pasta, reserving some of its cooking water. Stir half the reserved pasta
    water into the lamb mixture, to loosen. Stir the cooked pasta and the rest
    of the reserved water into the yoghurt pan and cook on a medium heat for
    about two minutes, just to heat through.
