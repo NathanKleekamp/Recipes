@@ -78,6 +78,7 @@
 - [Bacon and Lentil Soup](soups/bacon-lentil-soup.md)
 - [Black Bean Soup](soups/black-bean-soup.md)
 - [Buffalo Chili](soups/buffalo-chili.md)
+- [Coconut Lentil Soup](soups/coconut-lentil.md)
 - [Cold Cucumber Soup with Yogurt and Dill](soups/cold-cucumber-soup.md)
 - [Gazpacho](soups/gazpacho.md)
 - [Ginger Garlic Noodle Soup with Bok Choy](soups/ginger-garlic-noodle-soup.md)
