@@ -48,6 +48,7 @@
 ## Salad Dressings
 
 - [Hoisin Salad Dressing](salad-dressings/hoisin-salad-dressing.md)
+- [Classic Balsamic](salad-dressings/classic-balsamic.md)
 
 ## Salads
 
