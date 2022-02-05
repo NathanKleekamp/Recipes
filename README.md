@@ -48,6 +48,7 @@
 ## Salad Dressings
 
 - [Classic Balsamic](salad-dressings/classic-balsamic.md)
+- [Green Goddess](salad-dressings/green-goddess.md)
 - [Hoisin Salad Dressing](salad-dressings/hoisin-salad-dressing.md)
 - [Mandy's House](salad-dressings/mandys-house.md)
 
