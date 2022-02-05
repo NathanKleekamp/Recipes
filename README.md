@@ -34,6 +34,7 @@
 - [Lamb, Macaroni with Yoghurt and Spicy Lamb](mains/lamb-yoghurt-pasta.md)
 - [Lamb, Rack of](mains/rack-of-lamb.md)
 - [Polenta with chickpeas and tomatoes](mains/polenta-chickpeas.md)
+- [Ragu Bolognese](mains/ragu-bolognese.md)
 - [Salmon Meuniere](mains/salmon-meuniere.md)
 - [Shakshuka](mains/shakshuka.md)
 - [Tomato Tart with Chickpea Crumble](mains/tomato-tart-chickpea-crumble.md)
