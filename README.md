@@ -51,6 +51,7 @@
 - [Green Goddess](salad-dressings/green-goddess.md)
 - [Hoisin Salad Dressing](salad-dressings/hoisin-salad-dressing.md)
 - [Mandy's House](salad-dressings/mandys-house.md)
+- [Spring Detox](salad-dressings/spring-detox.md)
 
 ## Salads
 
