@@ -8,8 +8,8 @@
 - 1 teaspoon fennel seeds
 - 1/2 teaspoon garlic powder
 - 1/2 teaspoon fine salt, plus more to taste
-- 1/2 teaspoon finely ground black pepper, plus more to taste One (15.5-ounce)
-  can chickpeas, drained and rinsed, or 1 1/2 cups cooked chickpeas
+- 1/2 teaspoon finely ground black pepper, plus more to taste
+- One (15.5-ounce) can chickpeas, drained and rinsed, or 1 1/2 cups cooked chickpeas
 - 1 (14.5-ounce) can diced fire-roasted tomatoes
 
 ## Directions
