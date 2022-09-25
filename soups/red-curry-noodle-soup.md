@@ -22,26 +22,19 @@
 
 ## Directions
 
-1. Heat olive oil in a large stockpot or Dutch oven over medium heat. Season
-   chicken with salt and pepper, to taste. Add chicken to the stockpot and cook
-   until golden, about 2-3 minutes; set aside.
-
-1. Add garlic, bell pepper and onion. Cook, stirring occasionally, until
+1. Bell pepper and onion. Cook, stirring occasionally, until
    tender, about 3-4 minutes.
 
-1. Stir in red curry paste and ginger until fragrant, about 1 minute.
+1. Stir in red curry paste, garlic, and ginger until fragrant, about 1 minute.
 
 1. Stir in chicken broth and coconut milk, scraping any browned bits from the
    bottom of the pot.
 
-1. Stir in chicken. Bring to a boil; reduce heat and cook, stirring
-   occasionally, until reduced, about 10 minutes.
+1. Stir in tofu, fish sauce and brown sugar. Bring to a boil; reduce heat and
+   cook, stirring occasionally, until reduced, about 10 minutes.
 
-1. Stir in rice noodles, fish sauce and brown sugar until noodles are tender,
-   about 5 minutes.
-
-1. Remove from heat; stir in green onions, cilantro, basil and lime juice;
-   season with salt and pepper, to taste.  Serve immediately.
+1. Remove from heat; add green onions, cilantro, basil and lime juice; season
+   with salt and pepper, to taste. Serve immediately.
 
 ### Source
 
