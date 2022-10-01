@@ -71,6 +71,7 @@
 - [Green Bean Salad](sides/green-bean-salad.md)
 - [Marinated Mushrooms](sides/marinated-mushrooms.md)
 - [Mashed Potatoes](sides/mashed-potatoes.md)
+- [Mediterranean Farro Salad](sides/farro-salad.md)
 - [Mehshy Koosa](sides/mehshy-koosa.md)
 - [Quinoa with Spinach and Feta](sides/quinoa-spinach-feta.md)
 - [Roasted Carrots and Red Onions with Fennel and Mint](sides/roasted-carrots.md)
