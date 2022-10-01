@@ -61,6 +61,7 @@
 - [Arugula & Fennel Salad with Lemon Vinaigrette](salads/arugula-fennel.md)
 - [Beets and Caramelized Onions](salads/beets-caramelized-onions.md)
 - [Hoisin Duck Salad](salads/hoisin-duck.md)
+- [Roasted Beets with Warm Fennel Vinaigrette](salads/roasted-beets-fennel.md)
 
 ## Sauces
 
