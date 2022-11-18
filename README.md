@@ -14,6 +14,7 @@
 
 ## Cocktails
 
+- [Pomegranate Spritzers](cocktails/pomegranate-spritzer.md)
 - [Spiced Pear and Bourbon Sparkler](cocktails/pear-bourbon-sparkler.md)
 
 ## Desserts
