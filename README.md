@@ -12,6 +12,10 @@
 - [Shrimp & Grits](brunch/shrimp-grits.md)
 - [Tofu Scramble](brunch/tofu-scramble.md)
 
+## Cocktails
+
+- [Spiced Pear and Bourbon Sparkler](cocktails/pear-bourbon-sparkler.md)
+
 ## Desserts
 
 - [Brown Butter Cobbler](desserts/brown-butter-cobbler.md)
