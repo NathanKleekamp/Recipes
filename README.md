@@ -37,6 +37,7 @@
 - [Duck, Basic Roast](mains/duck-roast-basic.md)
 - [Duck, Carnitas Tacos](mains/duck-carnitas-tacos.md)
 - [Duck, Honey Roast](mains/duck-honey-roast.md)
+- [Kidney Bean & Mushroom Bourguignon](mains/kidney-bean-bourguignon.md)
 - [Lamb, Macaroni with Yoghurt and Spicy Lamb](mains/lamb-yoghurt-pasta.md)
 - [Lamb, Rack of](mains/rack-of-lamb.md)
 - [Polenta with chickpeas and tomatoes](mains/polenta-chickpeas.md)
