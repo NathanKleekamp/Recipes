@@ -2,6 +2,8 @@
 
 ## Ingredients
 
+### Chicken
+
 - 3 tablespoons minced ginger
 - 3 tablespoons minced garlic
 - 1/3 cup chaat masala
@@ -12,7 +14,9 @@
 - 3 tablespoons kosher salt
 - 2 pounds chicken wings
 - Chopped cilantro, to garnish
-- For the yogurt-mint sauce:
+
+### For the yogurt-mint sauce
+
 - 2 cups fresh mint
 - 2 cloves garlic
 - 2 cups plain yogurt
