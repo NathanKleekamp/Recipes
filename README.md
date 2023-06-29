@@ -81,6 +81,7 @@
 
 ## Sides
 
+- [Farro Salad with Roasted Veggies](sides/farrow-roasted-veggies.md)
 - [Green Bean Salad](sides/green-bean-salad.md)
 - [Marinated Mushrooms](sides/marinated-mushrooms.md)
 - [Mashed Potatoes](sides/mashed-potatoes.md)
