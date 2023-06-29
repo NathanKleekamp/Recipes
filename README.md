@@ -48,6 +48,7 @@
 - [Salmon Meuniere](mains/salmon-meuniere.md)
 - [Shakshuka](mains/shakshuka.md)
 - [Swordfish With Lemon and Fennel](mains/swordfish-lemon-fennel.md)
+- [Sylvie’s Cholent](mains/sylvie-cholent.md)
 - [Tomato Tart with Chickpea Crumble](mains/tomato-tart-chickpea-crumble.md)
 - [Turkey & Lentil Lettuce Wraps](mains/turkey-lettuce-wraps.md)
 - [White Fish, Red Peppers, Saffron & Preserved Lemon](mains/saffron-fish-red-peppers.md)
