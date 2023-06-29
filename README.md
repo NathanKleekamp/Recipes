@@ -75,6 +75,7 @@
 
 ## Sauces
 
+- [Anchovy-Dill (fish) Sauce](sauces/anchovy-dill.md)
 - [Garlic Tahini Sauce](sauces/garlic-tahini.md)
 - [Mushroom Wine Sauce](sauces/mushroom-wine.md)
 
