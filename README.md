@@ -34,6 +34,7 @@
 - [Chicken, Piccata](mains/chicken-piccata.md)
 - [Chicken, Roasted Spatchcock](mains/roasted-chicken.md)
 - [Chicken, Roasted with Figs and Rosemary](mains/chicken-roasted-figs-rosemary.md)
+- [Chicken, Soy Sauce Chicken With Star Anise and Orange Peel](mains/soy-sauce-chicken.md)
 - [Chickpea Salad Sammiches](mains/chickpea-salad-sammiches.md)
 - [Duck, Basic Roast](mains/duck-roast-basic.md)
 - [Duck, Carnitas Tacos](mains/duck-carnitas-tacos.md)
