@@ -42,6 +42,7 @@
 - [Kidney Bean & Mushroom Bourguignon](mains/kidney-bean-bourguignon.md)
 - [Lamb, Macaroni with Yoghurt and Spicy Lamb](mains/lamb-yoghurt-pasta.md)
 - [Lamb, Rack of](mains/rack-of-lamb.md)
+- [Lentil-Mushroom Farmer's Pie](mains/lentil-mushroom-farmers-pie.md)
 - [Polenta with chickpeas and tomatoes](mains/polenta-chickpeas.md)
 - [Ragu Bolognese](mains/ragu-bolognese.md)
 - [Ratatouille Cassoulet](mains/ratatouille-cassoulet.md)
@@ -70,6 +71,7 @@
 
 - [Arugula & Fennel Salad with Lemon Vinaigrette](salads/arugula-fennel.md)
 - [Beets and Caramelized Onions](salads/beets-caramelized-onions.md)
+- [Cilantro Lime Slaw](salads/cilantro-lime-slaw.md)
 - [Hoisin Duck Salad](salads/hoisin-duck.md)
 - [Roasted Beets with Warm Fennel Vinaigrette](salads/roasted-beets-fennel.md)
 
@@ -107,6 +109,8 @@
 - [Ginger Garlic Noodle Soup with Bok Choy](soups/ginger-garlic-noodle-soup.md)
 - [Greek Avgolemono Soup](soups/greek-avgolemono.md)
 - [Hungarian Mushroom Soup](soups/hungarian-mushroom-soup.md)
+- [Lablabi](soups/lablabi.md)
+- [Lalo's Cacahuate Bean Soup](soups/cacahaute-beans.md)
 - [Lentil, Bacon, and Frankfurter Soup](soups/lentil-bacon-frankfurter-soup.md)
 - [Moroccan Stew](soups/moroccan-stew.md)
 - [Summer Minestrone](soups/summer-minestrone.md)
