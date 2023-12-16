@@ -42,6 +42,7 @@
 - [Kidney Bean & Mushroom Bourguignon](mains/kidney-bean-bourguignon.md)
 - [Lamb, Macaroni with Yoghurt and Spicy Lamb](mains/lamb-yoghurt-pasta.md)
 - [Lamb, Rack of](mains/rack-of-lamb.md)
+- [Lamb, Slow-Cooked with Moroccan Spices](mains/lamb-moroccan-spices.md)
 - [Lentil-Mushroom Farmer's Pie](mains/lentil-mushroom-farmers-pie.md)
 - [Polenta with chickpeas and tomatoes](mains/polenta-chickpeas.md)
 - [Ragu Bolognese](mains/ragu-bolognese.md)
