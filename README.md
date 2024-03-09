@@ -114,6 +114,7 @@
 - [Lalo's Cacahuate Bean Soup](soups/cacahaute-beans.md)
 - [Lentil, Bacon, and Frankfurter Soup](soups/lentil-bacon-frankfurter-soup.md)
 - [Moroccan Stew](soups/moroccan-stew.md)
+- [Red Lentil Fuul](soups/red-lentil-fuul.md)
 - [Summer Minestrone](soups/summer-minestrone.md)
 - [Thai Red Curry Noodle Soup](soups/red-curry-noodle-soup.md)
 - [Vegetable Soup with Fennel](soups/vegetable-soup-with-fennel.md)
