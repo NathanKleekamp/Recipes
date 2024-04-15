@@ -2,7 +2,7 @@
 
 ## Ingredients
 
-- 2 tablespoons cider vinegar
+- 2 tablespoons apple cider vinegar
 - 1 teaspoon Dijon mustard (preferably whole-grain or coarse-grain)
 - 1/4 teaspoon black pepper
 - 3/4 teaspoon salt
