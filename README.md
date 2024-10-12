@@ -93,6 +93,7 @@
 - [Quinoa with Spinach and Feta](sides/quinoa-spinach-feta.md)
 - [Roasted Carrots and Red Onions with Fennel and Mint](sides/roasted-carrots.md)
 - [Sabanikh](sides/sabanikh.md)
+- [Turkish Bulgur Pilaf Recipe](sides/bulgur-pilaf.md)
 
 ## Snacks
 
