@@ -38,3 +38,7 @@
 ### Source
 
 [The Little Spice Jar](https://littlespicejar.com/hungarian-mushroom-soup/)
+
+### Keywords
+
+- Soup

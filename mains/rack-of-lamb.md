@@ -30,3 +30,8 @@ recipe. It worked perfectly, though, so I added it to this recipe.
 ### Source
 
 [Saveur](https://www.saveur.com/rack-of-lamb-with-rosemary-and-thyme-recipe/)
+
+### Keywords
+
+- Entrée
+- Main dish

@@ -28,3 +28,7 @@
 ### Source
 
 [The Modern Proper](https://themodernproper.com/coconut-curry-lentil-soup)
+
+### Keywords
+
+- Soup

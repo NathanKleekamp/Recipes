@@ -31,3 +31,8 @@
 ### Source
 
 [Food Network](https://www.foodnetwork.com/recipes/giada-de-laurentiis/chicken-piccata-recipe2-1913809)
+
+### Keywords
+
+- Entrée
+- Main dish

@@ -33,3 +33,7 @@
 ### Source
 
 [Foolproof Living](https://foolproofliving.com/moms-bulgur-pilaf/)
+
+### Keywords
+
+- Side

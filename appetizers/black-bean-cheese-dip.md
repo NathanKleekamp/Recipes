@@ -29,3 +29,7 @@
 ### Source
 
 [NYTimes Cooking](https://cooking.nytimes.com/recipes/1020705-cheesy-spicy-black-bean-bake?action=click&module=Collection%20Page%20Recipe%20Card&region=Easy%2030-Minute%20Vegetarian%20Recipes&pgType=collection&rank=12)
+
+### Keywords
+
+- Appetizer

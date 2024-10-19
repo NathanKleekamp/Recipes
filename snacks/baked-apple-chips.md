@@ -12,3 +12,7 @@
 1. Bake 1 hour then flip and back for another 2 hours. Leave in oven until oven
    has cooled.
 1. Store in glass jar at room temp for up to 1 month
+
+### Keywords
+
+- Snack

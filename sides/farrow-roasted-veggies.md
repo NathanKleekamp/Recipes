@@ -41,3 +41,7 @@
 ### Source
 
 [The Wall Street Journal](https://www.wsj.com/recipes/farro-salad-with-roasted-carrots-cabbage-and-guanciale--15a3dcc3)
+
+### Keywords
+
+- Side

@@ -43,3 +43,7 @@
 ### Source
 
 [bon appetit](https://www.bonappetit.com/recipe/spiced-pear-and-bourbon-sparkler)
+
+### Keywords
+
+- Cocktail

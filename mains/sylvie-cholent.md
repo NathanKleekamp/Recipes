@@ -53,3 +53,8 @@
 ### Source
 
 [The Wall Street Journal](https://www.wsj.com/recipes/sylvies-cholent-06913d5a)
+
+### Keywords
+
+- Entrée
+- Main dish

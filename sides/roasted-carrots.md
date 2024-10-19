@@ -35,3 +35,7 @@ drizzle  vinaigrette over, and toss to coat well; transfer to a platter.
 
 Just  before serving, re-toss vegetables to pull up any dressing that may  have
 settled at the bottom of the platter and scatter mint over top.
+
+### Keywords
+
+- Side

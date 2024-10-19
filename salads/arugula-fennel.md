@@ -23,3 +23,8 @@ dressed the salad sufficiently to your liking.
 
 Use a vegetable peeler to shave a few slices of pecorino over the top of the
 salad. Serve immediately.
+
+### Keywords
+
+- Salad
+- Side

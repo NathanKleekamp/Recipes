@@ -47,3 +47,8 @@
 ### Source
 
 [The Wall Street Journal](https://www.wsj.com/articles/super-bowl-recipes-the-best-chicken-wings-for-the-win-11675965922)
+
+### Keywords
+
+- Entrée
+- Main dish

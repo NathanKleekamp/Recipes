@@ -59,3 +59,9 @@
 ### Source
 
 Mandy's Gourmet Salads
+
+### Keywords
+
+- Salad
+- Entrée
+- Main dish

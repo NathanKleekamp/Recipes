@@ -39,3 +39,7 @@ The dough:
 ### Source
 
 [NYTimes Cooking](https://cooking.nytimes.com/recipes/9291-chez-panisses-blueberry-cobbler)
+
+### Keywords
+
+- Dessert

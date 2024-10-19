@@ -28,3 +28,7 @@
 ## Directions
 
 Bake in 350 degree oven for 30-35 min or until cooked
+
+### Keywords
+
+- Appetizer

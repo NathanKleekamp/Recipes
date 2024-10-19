@@ -24,3 +24,8 @@ sandwiches, toasted or not, and serve sliced in half.
 ### Source
 
 [Post Punk Kitchen](http://www.theppk.com/2013/07/chickpea-salad-sammiches/)
+
+### Keywords
+
+- Entrée
+- Main dish

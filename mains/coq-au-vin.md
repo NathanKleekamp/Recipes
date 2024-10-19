@@ -80,3 +80,8 @@ sauce, sprinkle with parsley and serve with croutons on top.
 
 [New York Times
 Cooking](https://cooking.nytimes.com/guides/35-how-to-make-coq-au-vin)
+
+### Keywords
+
+- Entrée
+- Main dish

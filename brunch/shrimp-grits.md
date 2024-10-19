@@ -37,3 +37,7 @@ The ratio of liquid (milk/water) to grits is 4:1.
 ### Source
 
 [https://theorganicbutcher.com/blogs/news/ob-shrimp-and-grits](The Organic Butcher of McLean)
+
+### Keywords
+
+- Brunch

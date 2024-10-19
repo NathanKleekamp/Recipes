@@ -25,3 +25,8 @@
 ### Source
 
 [Garlic & Zest](https://www.garlicandzest.com/cilantro-lime-slaw-no-mayo/)
+
+### Keywords
+
+- Salad
+- Side

@@ -41,3 +41,8 @@
 ### Source
 
 [The Wall Street Journal](https://www.wsj.com/recipes/soy-sauce-chicken-with-star-anise-and-orange-peel-f0bbd4d3)
+
+### Keywords
+
+- Entrée
+- Main dish

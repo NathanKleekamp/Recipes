@@ -41,3 +41,7 @@
 ### Source
 
 [America's Test Kitchen](https://www.americastestkitchen.com/recipes/8958-paleo-bison-chili?incode=MASAD00L0&ref=new_search_experience_1)
+
+### Keywords
+
+- Soup

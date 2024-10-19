@@ -40,3 +40,8 @@
 ### Source
 
 [Bon Appetit](https://www.bonappetit.com/recipe/red-wine-braised-short-ribs)
+
+### Keywords
+
+- Entrée
+- Main dish

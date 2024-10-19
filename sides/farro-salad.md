@@ -36,3 +36,7 @@
 ### Source
 
 [Food Network](https://www.foodnetwork.com/recipes/giada-de-laurentiis/mediterranean-farro-salad-recipe-1946544)
+
+### Keywords
+
+- Side

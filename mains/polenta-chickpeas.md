@@ -29,3 +29,8 @@
 ### Source
 
 [The Washington Post](https://www.washingtonpost.com/food/2022/01/14/polenta-chickpeas-tomatoes-recipe/)
+
+### Keywords
+
+- Entrée
+- Main dish

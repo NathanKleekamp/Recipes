@@ -77,3 +77,8 @@
 ### Source
 
 [bon appétit](https://www.bonappetit.com/recipe/duck-carnitas-tacos-with-radish-escabeche)
+
+### Keywords
+
+- Entrée
+- Main dish

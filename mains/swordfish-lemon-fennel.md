@@ -34,3 +34,8 @@
 ### Source
 
 [NYT Cooking](https://cooking.nytimes.com/recipes/1015721-swordfish-with-lemon-and-fennel)
+
+### Keywords
+
+- Entrée
+- Main dish

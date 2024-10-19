@@ -21,3 +21,8 @@ Cook onions with remaining 1/4 teaspoon salt in remaining 2 tablespoons oil in
 a 12-inch heavy skillet over moderate heat, stirring occasionally, until
 caramelized, 18 to 20 minutes. Add onions to dressing, then add beets and
 cheese, stirring  gently to combine.
+
+### Keywords
+
+- Salad
+- Side

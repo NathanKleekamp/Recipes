@@ -29,3 +29,7 @@
 1. Simmer for about 15 more minutes on medium-low heat, stirring often. Serve
    over cooked brown rice if you'd like, and top with a sprinkle of chopped
    peanuts.
+
+### Keywords
+
+- Soup

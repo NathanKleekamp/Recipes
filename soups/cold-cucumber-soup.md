@@ -29,3 +29,7 @@
 ### Source
 
 [Food & Wine](https://www.foodandwine.com/recipes/cold-cucumber-soup-yogurt-and-dill)
+
+### Keywords
+
+- Soup

@@ -37,3 +37,7 @@
    another 5-7 minutes until tofu is slightly browned.
 1. Serve immediately with the breakfast potatoes, toast or fruit. I like to add
    more flavor with salsa, hot sauce and/or fresh cilantro. Serves 2.
+
+### Keywords
+
+- Brunch

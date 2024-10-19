@@ -33,3 +33,7 @@
 ### Source
 
 [The Wall Street Journal](https://www.wsj.com/articles/seafood-stew-recipe-built-on-simple-market-staples-2f00f008)
+
+### Keywords
+
+- Soup

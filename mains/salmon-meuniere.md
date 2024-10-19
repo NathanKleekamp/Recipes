@@ -28,3 +28,8 @@
 ### Source
 
 [Well Plated by Erin](https://www.wellplated.com/salmon-meuniere/)
+
+### Keywords
+
+- Entrée
+- Main dish

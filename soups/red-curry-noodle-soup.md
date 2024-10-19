@@ -39,3 +39,7 @@
 ### Source
 
 [DamnDelicious.net](https://damndelicious.net/2018/04/18/thai-red-curry-noodle-soup/print/)
+
+### Keywords
+
+- Soup

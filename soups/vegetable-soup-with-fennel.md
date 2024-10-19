@@ -19,13 +19,17 @@
 
 ## Directions
 
-1. Heat the olive oil in a large soup pot. Add  the garlic and cook over
-   moderate heat, stirring, until fragrant, about  2 minutes. Add the carrots,
-   celery, leeks and fennel and cook,  stirring, until the vegetables begin to
-   soften, about 5 minutes. Add the  tomato and bay leaves and cook until the
-   vegetables are tender, about 5  minutes. Add the water and the cheese rind
-   and bring to a simmer. Cover  partially and cook over moderately low heat
-   until the vegetables are  very tender, about 30 minutes.
-1. Discard the cheese rind and bay leaves.  Stir in the parsley and basil and
-   season the soup with salt and pepper.  Ladle into bowls, sprinkle with the
+1. Heat the olive oil in a large soup pot. Add the garlic and cook over
+   moderate heat, stirring, until fragrant, about 2 minutes. Add the carrots,
+   celery, leeks and fennel and cook, stirring, until the vegetables begin to
+   soften, about 5 minutes. Add the tomato and bay leaves and cook until the
+   vegetables are tender, about 5 minutes. Add the water and the cheese rind
+   and bring to a simmer. Cover partially and cook over moderately low heat
+   until the vegetables are very tender, about 30 minutes.
+1. Discard the cheese rind and bay leaves. Stir in the parsley and basil and
+   season the soup with salt and pepper. Ladle into bowls, sprinkle with the
    grated cheese and serve.
+
+### Keywords
+
+- Soup

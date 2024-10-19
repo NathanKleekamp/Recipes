@@ -46,3 +46,7 @@
 ### Source
 
 [Cookie and Kate](https://cookieandkate.com/ultimate-gazpacho-recipe/)
+
+### Keywords
+
+- Soup

@@ -69,3 +69,8 @@
 ### Source
 
 [Julia's Album](https://juliasalbum.com/how-to-cook-duck/)
+
+### Keywords
+
+- Entrée
+- Main dish

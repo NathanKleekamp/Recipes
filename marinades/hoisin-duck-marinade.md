@@ -21,3 +21,7 @@ This marinade will keep, refrigerated, for up to 7 days.
 ### Source
 
 Mandy's Gourmet Salads
+
+### Keywords
+
+- Marinade

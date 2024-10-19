@@ -46,3 +46,7 @@
    the chopped parsley. Ladle into serving bowls and garnish with a dollop of
    yogurt, some chopped mint, and a pinch of cayenne pepper.
 
+
+### Keywords
+
+- Soup

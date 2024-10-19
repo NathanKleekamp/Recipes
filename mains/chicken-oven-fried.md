@@ -18,3 +18,8 @@
 1. Bake for 30 minutes; turn and bake 15 minutes longer, or until chicken is
    tender and done (at least 165 F on a food thermometer).
 
+
+### Keywords
+
+- Entrée
+- Main dish

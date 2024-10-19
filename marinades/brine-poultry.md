@@ -17,11 +17,15 @@
 ## Directions
 
 1. Place the water, salt, honey, bay leaves, garlic, peppercorns, rosemary,
-  thyme, parsley and lemons in a large pot. Bring to a simmer over medium heat.
+   thyme, parsley and lemons in a large pot. Bring to a simmer over medium heat.
 1. Cook for 3-4 minutes or until salt has dissolved.
 1. Turn off the heat and cool completely.
 1. Add the chicken to the cooled brine. Make sure the chicken is completely
-  submerged.
+   submerged.
 1. Cover the pot and refrigerate for 8-24 hours.
 1. Remove the chicken from the brine and rinse with cool water; pat dry with
-  paper towels. Proceed with roasting, smoking or frying the chicken.
+   paper towels. Proceed with roasting, smoking or frying the chicken.
+
+### Keywords
+
+- Marinade

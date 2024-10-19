@@ -20,3 +20,7 @@
 ### Source
 
 [bon appetit](https://www.bonappetit.com/recipe/pomegranate-spritzers-recipe)
+
+### Keywords
+
+- Cocktail

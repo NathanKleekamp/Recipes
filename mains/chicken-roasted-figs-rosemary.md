@@ -31,3 +31,8 @@
 ### Source
 
 [New York Times Cooking](https://cooking.nytimes.com/recipes/1018294-roasted-chicken-with-figs-and-rosemary)
+
+### Keywords
+
+- Entrée
+- Main dish

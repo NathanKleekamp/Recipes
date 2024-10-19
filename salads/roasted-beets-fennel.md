@@ -36,3 +36,8 @@
 ### Source
 
 [Food Network](https://www.foodnetwork.com/recipes/food-network-kitchen/roasted-beets-with-warm-fennel-vinaigrette-3363156)
+
+### Keywords
+
+- Salad
+- Side

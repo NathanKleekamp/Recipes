@@ -53,3 +53,8 @@
 ### Source
 
 [The Washington Post](https://www.washingtonpost.com/food/2021/01/20/boeuf-bourguignon-recipe-anthony-bourdain/)
+
+### Keywords
+
+- Entrée
+- Main dish

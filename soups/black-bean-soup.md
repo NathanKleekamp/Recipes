@@ -38,3 +38,7 @@
 ### Source
 
 [Cookie and Kate](https://cookieandkate.com/spicy-vegan-black-bean-soup/)
+
+### Keywords
+
+- Soup

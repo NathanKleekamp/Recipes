@@ -43,3 +43,7 @@
 ### Source
 
 [Cookie and Kate](https://cookieandkate.com/green-bean-salad-recipe/#tasty-recipes-25099)
+
+### Keywords
+
+- Side

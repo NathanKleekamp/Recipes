@@ -42,3 +42,8 @@
 ### Source
 
 [NYTimes Cooking](https://cooking.nytimes.com/recipes/1019982-creamy-braised-white-beans?action=click&module=Collection%20Page%20Recipe%20Card&region=Easy%2030-Minute%20Vegetarian%20Recipes&pgType=collection&rank=19)
+
+### Keywords
+
+- Entrée
+- Main dish

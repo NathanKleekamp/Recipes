@@ -19,3 +19,7 @@
    about 5 minutes. Reduce heat to low and simmer until mushrooms are tender, 5
    to 8 more minutes.
 
+
+### Keywords
+
+- Side

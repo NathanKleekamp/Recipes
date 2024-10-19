@@ -41,3 +41,7 @@
 1. Divide soup between bowls and garnish with sesame seeds, the green parts of
    green onions and red pepper flakes (if desired).
 
+
+### Keywords
+
+- Soup

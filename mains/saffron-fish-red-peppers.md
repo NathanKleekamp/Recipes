@@ -47,3 +47,8 @@
 ### Source
 
 [NYTimes](https://cooking.nytimes.com/recipes/1021974-saffron-fish-with-red-peppers-and-preserved-lemon?action=click&module=Collection%20Page%20Recipe%20Card&region=Sam%20Sifton’s%20Suggestions&pgType=collection&rank=48)
+
+### Keywords
+
+- Entrée
+- Main dish
