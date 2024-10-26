@@ -75,6 +75,7 @@
 - [Cilantro Lime Slaw](salads/cilantro-lime-slaw.md)
 - [Hoisin Duck Salad](salads/hoisin-duck.md)
 - [Roasted Beets with Warm Fennel Vinaigrette](salads/roasted-beets-fennel.md)
+- [Waldorf Salad](salads/waldorf-salad.md)
 
 ## Sauces
 
