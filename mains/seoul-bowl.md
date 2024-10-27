@@ -19,13 +19,11 @@
 
 1. In a large bowl, combine the warm quinoa and brown rice. Season to taste
    with the salt and pepper.
-
 1. Divide the rice and quinoa mixture among 4 large bowls. For each bowl,
    arrange the ingredients in the following order: the mixed rice and quinoa
    mixture, the kimchi, the pickled cucumber, the avocado, and the warmed tofu.
    Then top each bowl with the fried shallots, sesame seeds, chopped nori, and
    the spicy mayo.
-
 1. In a frying pan over medium heat, fry the eggs sunny-side up. Lay a fried
    egg on top of the other ingredients in the center of each bowl, and top with
    the sesame seeds.

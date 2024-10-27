@@ -15,8 +15,8 @@
 
 ## Directions
 
-1. Combine all of the ingredients in a large stainless-steel bowl. Top with the
-   dressing, and using tongs, toss until well mixed and dressed.
+Combine all of the ingredients in a large stainless-steel bowl. Top with the
+dressing, and using tongs, toss until well mixed and dressed.
 
 ### Source
 
