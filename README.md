@@ -38,6 +38,7 @@
 - [Chicken, Roasted with Figs and Rosemary](mains/chicken-roasted-figs-rosemary.md)
 - [Chicken, Soy Sauce Chicken With Star Anise and Orange Peel](mains/soy-sauce-chicken.md)
 - [Chickpea Salad Sammiches](mains/chickpea-salad-sammiches.md)
+- [Creamy Tuscan Chicken Pasta](mains/creamy-tuscan-chicken-pasta.md)
 - [Duck, Basic Roast](mains/duck-roast-basic.md)
 - [Duck, Carnitas Tacos](mains/duck-carnitas-tacos.md)
 - [Duck, Honey Roast](mains/duck-honey-roast.md)
