@@ -2,9 +2,11 @@
 
 ## Appetizers
 
+- [Black Bean Cheese Dip](appetizers/black-bean-cheese-dip.md)
 - [Cranberry Brie Biscuit Dip](appetizers/cranberry-brie-biscuit-dip.md)
 - [Grandpa Fred's Meatballs](appetizers/meatballs.md)
-- [Black Bean Cheese Dip](appetizers/black-bean-cheese-dip.md)
+- [Kimchi](appetizers/kimchi.md)
+- [Pickled Cucumber](appetizers/pickled-cucmber.md)
 
 ## Brunch
 
@@ -48,6 +50,7 @@
 - [Ragu Bolognese](mains/ragu-bolognese.md)
 - [Ratatouille Cassoulet](mains/ratatouille-cassoulet.md)
 - [Salmon Meuniere](mains/salmon-meuniere.md)
+- [Seoul Bowl](mains/seoul-bowl.md)
 - [Shakshuka](mains/shakshuka.md)
 - [Swordfish With Lemon and Fennel](mains/swordfish-lemon-fennel.md)
 - [Sylvie’s Cholent](mains/sylvie-cholent.md)
@@ -82,6 +85,7 @@
 - [Anchovy-Dill (fish) Sauce](sauces/anchovy-dill.md)
 - [Garlic Tahini Sauce](sauces/garlic-tahini.md)
 - [Mushroom Wine Sauce](sauces/mushroom-wine.md)
+- [Spicy Mayo](sauces/spicy-mayo.md)
 
 ## Sides
 
