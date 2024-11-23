@@ -66,6 +66,10 @@
    up brushed with balsamic-lemon mixture + 40 minutes breast side up brushed
    with honey-balsamic mixture).
 
+## Extras
+
+[Cooking timeline](https://docs.google.com/spreadsheets/d/15eIR1qQMEOiheFY8fMJvzOJcEhwHZocrjWOIFhCCx-g/edit?gid=1667579904#gid=1667579904)
+
 ### Source
 
 [Julia's Album](https://juliasalbum.com/how-to-cook-duck/)
