@@ -5,7 +5,7 @@
 - 3-1/2 pounds Russet potatoes
 - 2 cups heavy cream
 - 8 tablespoons unsalted butter, divided
-- 1-1/2 teaspoons salt
+- Salt and pepper to taste
 - Chives, for serving
 
 ## Directions
@@ -13,18 +13,13 @@
 1. Preheat the oven to 450°F and adjust an oven rack to the middle position.
 1. Place the potatoes directly on the oven rack (alternatively, you can place
    them on a wire rack set in a rimmed baking sheet). Bake until very soft, 50
-   to 60 minutes, depending on the size of the potatoes. (Err on the side of
-   overcooking rather than undercooking them.)
-1. Remove the potatoes from the oven. While they are still hot, cut each potato
-   in half lengthwise. Using an oven mitt or a folded kitchen towel to hold the
-   hot potatoes, scoop out all of the flesh from each potato half into the bowl
-   of a stand mixer fitted with the paddle attachment (\*see notes on using a
-   potato ricer, food mill or hand-held electric mixer). The flesh near the
-   skin gets a little tough, so be sure to leave it behind. Break the cooked
-   potato flesh down into small pieces using a fork, potato masher, or rubber
-   spatula. Beat on low speed until completely smooth and no lumps remain, 1 to
-   2 minutes, stopping the mixer to scrape down the sides and bottom of the
-   bowl as needed.
+   to 60 minutes, depending on the size of the potatoes.
+1. After the oven, cut them in half and steam them until very, very soft.
+1. Scoop out the flesh using a spoon and an oven mit.
+1. Break the cooked potato flesh down into small pieces using a fork, potato
+   masher, or rubber spatula. Beat on low speed until completely smooth and no
+   lumps remain, 1 to 2 minutes, stopping the mixer to scrape down the sides and
+   bottom of the bowl as needed.
 1. Meanwhile, in a small saucepan over medium heat, bring the cream and 6
    tablespoons of the butter to a simmer.
 1. Remove the bowl from the mixer stand and, using a large rubber spatula,
@@ -49,7 +44,7 @@
 
 ### Source
 
-[Once Upon a Chef](https://www.onceuponachef.com/recipes/creamy-make-ahead-mashed-potatoes.html#tabrecipe)
+Adapted from [Once Upon a Chef](https://www.onceuponachef.com/recipes/creamy-make-ahead-mashed-potatoes.html#tabrecipe)
 
 ### Keywords
 
