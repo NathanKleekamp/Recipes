@@ -6,8 +6,7 @@
 - 2 lemon
 - 5 garlic cloves
 - 1/2 cup balsamic vinegar
-- 3 tablespoons honey
-- 1 tablespoon water
+- 4 tablespoons honey
 - salt
 
 ## Directions
@@ -25,59 +24,54 @@
    cooking). The duck will have flapping skin on both ends - fold that skin
    inwards, to hold the garlic and lemon inside. Tie up the duck legs with
    butcher's twine.
-1. Place the bird breast side up on a large roasting pan with a rack (roasting
-   pan should have a roasting rack to lift the duck from the bottom of the pan
-   and allow the fat to drip below the duck). Roast the duck, breast side up,
-   for 1 hour at 350 F.
-1. After 1 hour of roasting, flip the duck on its breast and roast it breast
-   side down (roast the other side) for 40 minutes, at 350 F.
-1. Remove the roasting pan with the duck from the oven (you now have roasted
-   the duck for 1 hour + 40 minutes), carefully remove the duck to a platter
-   (making sure the lemons and garlic from the cavity do not fall out - keep
-   the skin on both ends of the duck folded), and carefully pour off all the
-   duck fat juices from the roasting pan into a large heat-proof bowl or
-   container.
-1. Lower oven temperature to 335 F. Flip the duck breast side up again on a rack
-   in a roasting pan (the pan will have no fat juices now). In a small bowl,
-   combine 1/2 cup of balsamic vinegar with the freshly squeezed juice of 1
-   lemon. Brush all of the duck generously with the balsamic mixture
-   (especially the scored duck breast) and cook the duck breast side up for
-   another 40 minutes, brushing twice more during this period (approximately
-   every 15 minutes) with the mixture.
-1. Now, in a separate small bowl, combine 3 tablespoons honey, 1 tablespoon
-   water, and 3 tablespoons of the balsamic vinegar lemon mixture that you
-   will have left over from the previous step. Brush the breast side of the
-   duck thoroughly with this honey-balsamic mixture, and continue roasting at
-   335 F for another 35 minutes, brushing the duck breast side every 15
-   minutes with honey balsamic mixture (2-3 times total).
-1. For the final 5-7 minutes, increase oven temperature to 375 F to achieve
-   final crisping. Watch carefully and remove the duck if the skin reaches
-   desired color before time is up. Internal temperature should reach
-   135-140 F in the breast and 175-180 F in the legs.
-1. After the duck is cooked, remove it from the oven, let duck stand for 15
-   minutes. Then, carefully remove and discard the lemon from the cavity (being
-   careful not to get burned). Carve the duck and serve!
+1. Position oven rack in middle-lower third of oven. Preheat to 325°F. Place
+   the bird breast side up on a large roasting pan with a rack (roasting pan
+   should have a roasting rack to lift the duck from the bottom of the pan and
+   allow the fat to drip below the duck). Roast the duck, breast side up, for
+   45 minutes.
+1. After 45 minutes of roasting, flip the duck on its breast and roast it
+   breast side down for 30 minutes, maintaining temperature at 325°F. Check
+   breast temperature at this point.
+1. Flip the duck breast side up again on a rack in a roasting pan. In a small
+   bowl, combine 1/2 cup of balsamic vinegar with the freshly squeezed juice of
+   1 lemon. Brush all of the duck generously with the balsamic mixture
+   (especially the scored duck breast) and cook for 30 minutes, brushing once
+   more halfway through. Check temperature at 15 minutes.
+1. In a separate small bowl, combine 3 tablespoons honey, 1 tablespoon water,
+   and 3 tablespoons of the balsamic vinegar lemon mixture that you will have
+   left over from the previous step. Brush the breast side of the duck
+   thoroughly with this honey-balsamic mixture, and continue roasting at 325°F
+   for about 30 minutes, brushing once more halfway through. Check temperature
+   frequently during this phase.
+1. Optional: If skin needs additional crisping and breast hasn't reached 135°F,
+   increase temperature to 375°F for final 5 minutes. Watch carefully to
+   prevent burning of the honey glaze.
+1. Remove duck from oven when breast meat reaches 135°F (check in the thickest
+   part of the breast). Let duck rest for 10minutes before carving. During
+   this time, temperature will rise 5-10°F through carryover cooking.
+   Carefully remove and discard the lemon from the cavity (being careful not
+   to get burned). Carve and serve!
 
-## Extras
+### Notes
 
-[Cooking timeline](https://docs.google.com/spreadsheets/d/15eIR1qQMEOiheFY8fMJvzOJcEhwHZocrjWOIFhCCx-g/edit?gid=1667579904#gid=1667579904&range=A1:B1)
-
-## Notes
-
-- TOTAL COOKING TIME: The duck should be roasted for a total of 3 hours. These
-  3 hours of roasting are divided into 4 distinctive time chunks (1 hour breast
-  side up at 350 F + 40 minutes breast side down at 350 F + 40 minutes breast side
-  up at 335 F brushed with balsamic-lemon mixture + 40 minutes breast side up at
-  335 F/375 F brushed with honey-balsamic mixture).
-- Position the rack in the middle-lower third of the oven to prevent over-browning
+- Use temperature readings as your primary guide, not time
 - If any areas are browning too quickly, cover them with small pieces of foil
-- Check internal temperature for doneness rather than relying solely on time
-- Opening the oven less frequently helps maintain consistent temperature and
-  prevents sugar burning from heating element temperature spikes
+- Remove from packaging and let air dry in refrigerator for up to 12 hours
+  before roasting for crispier skin
+- [Cooking timeline](https://docs.google.com/spreadsheets/d/15eIR1qQMEOiheFY8fMJvzOJcEhwHZocrjWOIFhCCx-g/edit?gid=1667579904#gid=1667579904)
+
+#### Temperature Guidelines
+
+- Target temperatures:
+  - Breast: 135°F for medium-rare (pink center)
+  - Breast: 140°F for medium
+- Temperature checkpoints:
+  - Check every 15-20 minutes during glazing phases
+  - Pull duck from oven when breast reaches 135°F, as temperature will rise 5-10°F while resting
 
 ### Source
 
-Adapted from [Julia's Album](https://juliasalbum.com/how-to-cook-duck/)
+Adapted from [Julia's Album](https://juliasalbum.com/how-to-cook-duck/), modified for modern ovens
 
 ### Keywords
 
