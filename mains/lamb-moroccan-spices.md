@@ -33,9 +33,9 @@
 1. Serve portions of lamb over couscous and sprinkled with toasted almonds in
    wide shallow bowls. Add a small ladle-full of broth to each serving.
 
-## Extras
+### Notes
 
-[Cooking timeline](https://docs.google.com/spreadsheets/d/15eIR1qQMEOiheFY8fMJvzOJcEhwHZocrjWOIFhCCx-g/edit#gid=0)
+- [Cooking timeline](https://docs.google.com/spreadsheets/d/15eIR1qQMEOiheFY8fMJvzOJcEhwHZocrjWOIFhCCx-g/edit#gid=0)
 
 ### Source
 
