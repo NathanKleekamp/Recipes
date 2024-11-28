@@ -23,6 +23,7 @@
 
 - [Brown Butter Cobbler](desserts/brown-butter-cobbler.md)
 - [Chez Panisse’s Blueberry Cobbler](desserts/blueberry-cobbler.md)
+- [Pear Upside-Down Cake](desserts/pear-upside-down-cake.md)
 
 ## Main Course
 
